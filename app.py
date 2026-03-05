@@ -109,7 +109,7 @@ with st.sidebar:
     st.markdown("<h2 style='text-align: center; color: #00ffcc;'>🎌 The Guild Kiosk</h2>", unsafe_allow_html=True)
     st.image("https://www.svgrepo.com/show/309875/ninja.svg", width=120) 
     st.markdown("""
-    **Welcome, Traveler!** I am your UI navigator. Enter your favorite series, and I'll tap into the World Tree's databanks to find your next adventure.
+    **The goal of this website is to combine my interest in math with my interest in anime. I wanted to make a website that uses a dataset from MAL(CooperUnions One) to match anime with anime you already like(based on either genre or user rating). This website uses Cosine similarity to power the recommendation engine. A plan for this website is to use a newer, more improved dataset or increase the number of ways to compare(it could be based on episodes as well).
     """)
     st.markdown("---")
     
