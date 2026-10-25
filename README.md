@@ -1,2 +1,1 @@
-﻿# anime-recommender
 This is the anime recommender system that I created. It uses AI and the Anime Data that I pulled from GIT or huggingface - I dont remember to predict the similar Anime videos that the user is likely to enjoy. I used Cosine Similarity algorithm for this. 
